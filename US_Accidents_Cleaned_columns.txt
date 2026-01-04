@@ -1,0 +1,41 @@
+US Accidents Cleaned Dataset - Column Reference
+==================================================
+
+ 1. ID
+ 2. Severity
+ 3. Start_Time
+ 4. End_Time
+ 5. Start_Lat
+ 6. Start_Lng
+ 7. Distance(mi)
+ 8. City
+ 9. County
+10. State
+11. Temperature(F)
+12. Humidity(%)
+13. Pressure(in)
+14. Visibility(mi)
+15. Wind_Direction
+16. Wind_Speed(mph)
+17. Precipitation(in)
+18. Weather_Condition
+19. Amenity
+20. Bump
+21. Crossing
+22. Give_Way
+23. Junction
+24. No_Exit
+25. Railway
+26. Roundabout
+27. Station
+28. Stop
+29. Traffic_Calming
+30. Traffic_Signal
+31. Turning_Loop
+32. Sunrise_Sunset
+33. Hour
+34. DayOfWeek
+35. Month
+36. Year
+37. IsWeekend
+38. Duration_hours
